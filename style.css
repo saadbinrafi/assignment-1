@@ -39,10 +39,15 @@ body{
 
 }
 
+/* center section style start */
+
+
+
+
 .center-hade{
     display: block;
     margin-top: 40px;
-
+    text-align: center;
 }
 
 .center-p{
@@ -50,7 +55,9 @@ body{
     font-weight: 700;
     text-align: center;
     color: rgb(255, 5, 5);
+    margin-bottom: 0%;
     font-family: 'Inter', sans-serif;
+
 }
 .center-p2{
 
@@ -73,16 +80,62 @@ body{
 }
 
 .img-1{
-    text-align: center;
+    width: 600px;
+    height: 450;
+    
 
 
+}
+.senter-img{
+    display: block;
+
+
+}
+.center-div{
+    
+    background-image: url("images/Vectorrr.png");
+    background-repeat: no-repeat;
+    background-position: center;    
+    background-repeat: no-repeat;
+    height: 600px;
+    padding-top: 100px ;
+    border-radius: 10px;
 }
 
 
 
+.center-p-1{
+    font-family: 'Merriweather', serif;
+    font-size: 64px;
+    font-weight: 900;
+    padding-left: 400px;
+    padding-top: 40px;
+    color: aliceblue;
+    margin-bottom: 0%;
+}
+
+.center-p-2{
+    font-family: 'Merriweather', serif;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: 400;
+    padding-left: 400px;
+    
+    line-height: 30px;
 
 
 
+}
+.button{
+    
+    font-family: 'Inter', sans-serif;
+    padding-top: 5pxpx;
+    margin-left: 400px;
+    margin-top: 20px;
+    font-size:20px ; 
+    font-weight: 700;
 
+
+}
 
 
