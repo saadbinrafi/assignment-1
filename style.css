@@ -46,8 +46,8 @@
 }
 
 
-/* style header saction compleater */
-/* style header saction compleater */
+/* style of header saction compleater */
+/* style of header saction compleater */
 
 
 
@@ -101,6 +101,14 @@
     width: 600px;
     padding-top: 25px;
 }
+
+
+/* conteiner style finished */
+/* conteiner style finished */
+
+
+
+
 
 
 .conteiner-2{
@@ -166,6 +174,9 @@
 }
 
 
+/* conteiner-2 style compleate */
+/* conteiner-2 style compleate */ 
+
 .conteiner-3{
 
     display: block;
@@ -185,7 +196,7 @@
     font-weight: 600;
     font-family: 'Inter', sans-serif;
     text-align: center;
-    
+
 
 }
 
@@ -228,6 +239,89 @@
 
 }
 
+
+/* conteiner-3 style compleate */
+/* conteiner-3 style compleate */
+
+
+.meinconteiner-4{
+    
+    display: block;
+    width: 70%;
+    max-width:1600px;
+    margin: 30px auto;
+    
+
+}
+     
+.meinconteiner-4-p-1{
+
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter', sans-serif;
+    color: rgb(233, 126, 65);
+    padding-left: 15px;
+}
+
+.meinconteiner-4-p-2{
+
+    font-size: 48px;
+    font-weight: 900;
+    font-family: 'Merriweather', serif;
+    padding-left: 15px;
+
+}
+
+.meinconteiner-4-p-3{
+
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    text-decoration: 20em;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+
+
+.level-1{
+
+    display: flex;
+    padding-top: 48px;
+}
+
+.level-2{
+    display: flex;
+}
+
+
+.image1{
+    padding-left: 15px;
+}
+
+.image2{
+    padding-left: 15px;
+  
+}
+
+.image3{
+    padding-left: 15px;
+  
+}
+
+.image4{
+    padding-left: 15px;
+  
+}
+
+.image5{
+    padding-left: 15px;
+  
+}
+
+.image6{
+    padding-left: 15px;
+  
+}
 
 
 
