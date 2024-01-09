@@ -1,141 +1,44 @@
-body{
-    font-family: 'Inter', sans-serif;
+*{
     font-family: 'Merriweather', serif;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0%;
+    margin: 0%;
 }
 
 
-.head-section{
-    display: block;
-
+.conteiner{
+    
+    width: 70%;
+    max-width:1320px;
+    margin: 30px auto;
 
 }
-.mein-head{
+
+.benner-text{
+    color: azure;
+    
+
+}
+.benner-img{
     
     background-image: url("images/Banner\ Image1.png");
-    background-repeat: no-repeat;
-    background-position: center;
+   
     height: 600px;
 
 }
 
-
-.heppy{
+.heppy-new-yer{
+    padding-top: 177px;
+    text-align: center;
     font-size: 32px;
     font-weight: 400;
-    text-align: center;
-    color: aliceblue;
-    padding-top: 159px;
     font-family: 'Merriweather', serif;
 }
-
 .new-year{
-
+    padding-top:20px ;
+    text-align: center;
     font-size: 72px;
     font-weight: 900;
-    text-align: center;
-    padding-bottom: 170px;
-    color: aliceblue;
     font-family: 'Merriweather', serif;
-
+   
 }
-
-/* center section style start */
-
-
-
-
-.center-hade{
-    display: block;
-    margin-top: 40px;
-    text-align: center;
-}
-
-.center-p{
-    font-size: 88px;
-    font-weight: 700;
-    text-align: center;
-    color: rgb(255, 5, 5);
-    margin-bottom: 0%;
-    font-family: 'Inter', sans-serif;
-
-}
-.center-p2{
-
-    margin-top: 48px;
-    color: rgb(209, 19, 19);
-    font-size: 24px;
-    font-weight: 500;
-    text-align: center;
-    font-family: 'Inter', sans-serif;
-
-}
-.center-p3{
-    font-size: 48px;
-    font-family: 'Inter', sans-serif;
-    text-align: center;
-    font-weight: 700;
-    color: rgb(31, 2, 2);
-    margin-top: 0%;
-    
-}
-
-.img-1{
-    width: 600px;
-    height: 450;
-    
-
-
-}
-.senter-img{
-    display: block;
-
-
-}
-.center-div{
-    
-    background-image: url("images/Vectorrr.png");
-    background-repeat: no-repeat;
-    background-position: center;    
-    background-repeat: no-repeat;
-    height: 600px;
-    padding-top: 100px ;
-    border-radius: 10px;
-}
-
-
-
-.center-p-1{
-    font-family: 'Merriweather', serif;
-    font-size: 64px;
-    font-weight: 900;
-    padding-left: 400px;
-    padding-top: 40px;
-    color: aliceblue;
-    margin-bottom: 0%;
-}
-
-.center-p-2{
-    font-family: 'Merriweather', serif;
-    font-size: 18px;
-    color: aliceblue;
-    font-weight: 400;
-    padding-left: 400px;
-    
-    line-height: 30px;
-
-
-
-}
-.button{
-    
-    font-family: 'Inter', sans-serif;
-    padding-top: 5pxpx;
-    margin-left: 400px;
-    margin-top: 20px;
-    font-size:20px ; 
-    font-weight: 700;
-
-
-}
-
-
