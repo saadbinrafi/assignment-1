@@ -298,31 +298,34 @@
 .image1{
     padding-left: 15px;
     padding-bottom: 15px;
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);
 }
 
 .image2{
     padding-left: 15px;
     padding-bottom: 15px;
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);
 }
 
 .image3{
     padding-left: 15px;
     padding-bottom: 15px;
-}
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);}
 
 .image4{
     padding-left: 15px;
     padding-bottom: 15px;
-}
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);}
 
 .image5{
     padding-left: 15px;
     padding-bottom: 15px;
-}
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);}
 
 .image6{
     padding-left: 15px;
     padding-bottom: 15px;
+    box-shadow: 0px 6px 20px 0px rgb(116, 96, 96);
 }
 
 
