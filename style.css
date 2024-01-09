@@ -260,6 +260,7 @@
     font-weight: 500;
     font-family: 'Inter', sans-serif;
     color: rgb(233, 126, 65);
+    padding-top: 70px;
     padding-left: 15px;
 }
 
@@ -296,59 +297,169 @@
 
 .image1{
     padding-left: 15px;
+    padding-bottom: 15px;
 }
 
 .image2{
     padding-left: 15px;
-  
+    padding-bottom: 15px;
 }
 
 .image3{
     padding-left: 15px;
-  
+    padding-bottom: 15px;
 }
 
 .image4{
     padding-left: 15px;
-  
+    padding-bottom: 15px;
 }
 
 .image5{
     padding-left: 15px;
-  
+    padding-bottom: 15px;
 }
 
 .image6{
     padding-left: 15px;
-  
+    padding-bottom: 15px;
+}
+
+
+/* meinconteiner4 style is compleat  */
+/* meinconteiner4 style is compleat  */
+
+.mienconteiner-5{
+
+    display: block;
+    padding: 30px 160px;
+    border-radius: 10px;
+    background-color: rgb(236, 240, 230);
+    margin-top: 40px;
+    height: 500px;
+    text-align: center;
+
 }
 
 
 
+.msg-icon{
+    text-align: center;
+    padding-top: 80px;
+}
+
+
+.s-n-l{
+    font-size: 48px;
+    font-weight: 900;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    padding-top: 40px;
+}
+
+.s-n-2{
+
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Inter', sans-serif;
+    margin-top: 22px;
+    
+    text-align: center;
+
+
+}
+.mail{
+    display: flex;
+   padding-left: 35%;
+    border: 0;
+    padding-top: 15px;
+}
+
+.eee{
+
+    padding: 15px;
+}
+
+.sss{
+
+    padding: 15px;
 
 
 
+}
+
+/* meinconteiner5 style is compleate  */
+/* meinconteiner5 style is compleate  */
+
+
+.footer-conteiner{
+    display: block;
+    width: 100%;
+    height: 600px;
+    background-color:rgb(17, 16, 48);
+   
+   
+
+}
+
+.footer-div-1{
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    color: azure;
+    font-size: 24;
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    text-align: left;
+    gap:1200px;
+    font-family: 'Inter', sans-serif;
+}
 
 
 
+.footer-div-2{
+    color: azure;
+    font-size: 24;
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    padding-bottom:20PX ;
+    font-family: 'Inter', sans-serif;
+}
+
+.footerp-1{
+    
+    text-decoration: 20em;
+
+}
+
+.pictur{
+    display: flex;
+    padding-left: 40%;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    gap: 40px;
+    border-top: 1px solid rgb(118, 118, 161);
+    border-bottom: 1px solid rgb(140, 140, 179);
+
+}
+
+.last-div{
+
+    display: flex;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    color: azure;
+    font-size: 24;
+    font-family: 'Merriweather', serif;
+    font-weight: 500;
+    text-align: left;
+    gap:1200px;
+    font-family: 'Inter', sans-serif;
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
 
 
 
